@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="db56568b-f588-46d8-8511-6a788e4c69c4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dianping.py" afterPath="$PROJECT_DIR$/dianping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tuangou.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="db56568b-f588-46d8-8511-6a788e4c69c4" time="1367123281186" ignored="false" />
+    <file path="/Dummy.txt" changelist="db56568b-f588-46d8-8511-6a788e4c69c4" time="1367123328052" ignored="false" />
     <file path="/dianping.py" changelist="db56568b-f588-46d8-8511-6a788e4c69c4" time="1367123310370" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="dianping.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dianping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="859" selection-end="859" vertical-scroll-proportion="0.2374582">
+            <state line="50" column="4" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.9046823">
               <folding />
             </state>
           </provider>
@@ -139,6 +138,21 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="tuangou" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,12 +198,18 @@
       <created>1367123068197</created>
       <updated>1367123068197</updated>
     </task>
+    <task id="LOCAL-00001" summary="yyy">
+      <created>1367123330655</created>
+      <updated>1367123330655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -247,7 +267,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="yyy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -260,6 +280,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="yyy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -267,7 +288,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dianping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="859" selection-end="859" vertical-scroll-proportion="0.2374582">
+        <state line="50" column="4" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.9046823">
           <folding />
         </state>
       </provider>
