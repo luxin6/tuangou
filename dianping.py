@@ -166,3 +166,4 @@ if __name__ == "__main__":
     print "end....."
     print "----"
     print "222"
+    print "kan push"
