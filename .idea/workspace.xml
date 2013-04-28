@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0945c594-6418-4e73-9c05-1d7b0ca63a99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dianping.py" afterPath="$PROJECT_DIR$/dianping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meituan.py" afterPath="$PROJECT_DIR$/meituan.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -13,7 +10,7 @@
     <file path="/temp.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367114538936" ignored="false" />
     <file path="/meituan.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367071573735" ignored="false" />
     <file path="/dianping.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367122418985" ignored="false" />
-    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121879198" ignored="false" />
+    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367122753321" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +383,11 @@
       <created>1367121882155</created>
       <updated>1367121882155</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="del some comments&#10;">
+      <created>1367122763404</created>
+      <updated>1367122763404</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
