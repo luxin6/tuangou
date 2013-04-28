@@ -11,7 +11,7 @@
     <file path="/temp.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367114538936" ignored="false" />
     <file path="/meituan.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367071573735" ignored="false" />
     <file path="/dianping.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121032071" ignored="false" />
-    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367120592299" ignored="false" />
+    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121476801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <file leaf-file-name="dianping.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dianping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="168" column="18" selection-start="5834" selection-end="5834" vertical-scroll-proportion="0.9030612">
+            <state line="170" column="21" selection-start="5883" selection-end="5883" vertical-scroll-proportion="0.75765306">
               <folding>
                 <element signature="e#23#52#0" expanded="true" />
               </folding>
@@ -149,10 +149,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -368,7 +364,15 @@
       <created>1367120625712</created>
       <updated>1367120625712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="push">
+      <created>1367121057250</created>
+      <updated>1367121057250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push">
+      <created>1367121486251</created>
+      <updated>1367121486251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,7 +380,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -385,7 +389,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="773" y="12" width="592" height="740" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,7 +437,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="testttt" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -448,6 +452,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="test2" />
     <MESSAGE value="testttt" />
+    <MESSAGE value="push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -496,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dianping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="18" selection-start="5834" selection-end="5834" vertical-scroll-proportion="0.9030612">
+        <state line="170" column="21" selection-start="5883" selection-end="5883" vertical-scroll-proportion="0.75765306">
           <folding>
             <element signature="e#23#52#0" expanded="true" />
           </folding>
