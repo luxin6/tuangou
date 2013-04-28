@@ -49,3 +49,4 @@ if __name__ == "__main__":
     html_parser_dianping(dianping_html)
     print "end....."
     print "----"
+    print "yyyyyyyyyy"
