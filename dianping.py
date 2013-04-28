@@ -169,3 +169,4 @@ if __name__ == "__main__":
     print "kan push"
     print "kan push5555"
     print "kan push666"
+    print "kan push777"

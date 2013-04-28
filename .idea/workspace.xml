@@ -11,7 +11,7 @@
     <file path="/temp.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367114538936" ignored="false" />
     <file path="/meituan.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367071573735" ignored="false" />
     <file path="/dianping.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121032071" ignored="false" />
-    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121476801" ignored="false" />
+    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367121654701" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <file leaf-file-name="dianping.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dianping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="170" column="21" selection-start="5883" selection-end="5883" vertical-scroll-proportion="0.75765306">
+            <state line="167" column="14" selection-start="5814" selection-end="5814" vertical-scroll-proportion="0.6122449">
               <folding>
                 <element signature="e#23#52#0" expanded="true" />
               </folding>
@@ -372,7 +372,11 @@
       <created>1367121486251</created>
       <updated>1367121486251</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="push">
+      <created>1367121660217</created>
+      <updated>1367121660217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dianping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="21" selection-start="5883" selection-end="5883" vertical-scroll-proportion="0.75765306">
+        <state line="167" column="14" selection-start="5814" selection-end="5814" vertical-scroll-proportion="0.6122449">
           <folding>
             <element signature="e#23#52#0" expanded="true" />
           </folding>
