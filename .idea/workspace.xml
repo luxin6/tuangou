@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0945c594-6418-4e73-9c05-1d7b0ca63a99" name="Default" comment="" />
+    <list default="true" id="0945c594-6418-4e73-9c05-1d7b0ca63a99" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dianping.py" afterPath="$PROJECT_DIR$/dianping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/test.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367067954093" ignored="false" />
     <file path="/temp.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367114538936" ignored="false" />
     <file path="/meituan.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367071573735" ignored="false" />
-    <file path="/dianping.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367116522946" ignored="false" />
+    <file path="/dianping.py" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367120315485" ignored="false" />
+    <file path="/Dummy.txt" changelist="0945c594-6418-4e73-9c05-1d7b0ca63a99" time="1367120474380" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +62,7 @@
       <file leaf-file-name="dianping.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dianping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="17" selection-start="3211" selection-end="3211" vertical-scroll-proportion="0.5520581">
+            <state line="160" column="25" selection-start="5613" selection-end="5613" vertical-scroll-proportion="0.6319613">
               <folding>
                 <element signature="e#23#52#0" expanded="true" />
               </folding>
@@ -72,6 +76,15 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -89,7 +102,7 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -145,9 +158,9 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_93e8418133eb85e81a81e5e19c272776524496c6/bin/git.exe" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -450,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dianping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="17" selection-start="3211" selection-end="3211" vertical-scroll-proportion="0.5520581">
+        <state line="160" column="25" selection-start="5613" selection-end="5613" vertical-scroll-proportion="0.6319613">
           <folding>
             <element signature="e#23#52#0" expanded="true" />
           </folding>
