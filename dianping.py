@@ -165,8 +165,3 @@ if __name__ == "__main__":
 #    beautifulsoupDemo1()
     print "end....."
     print "----"
-    print "222"
-    print "kan push"
-    print "kan push5555"
-    print "kan push666"
-    print "kan push777"
